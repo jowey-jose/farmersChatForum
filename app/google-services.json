@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "316357270015",
+    "firebase_url": "https://chatapp-7f7f3.firebaseio.com",
+    "project_id": "chatapp-7f7f3",
+    "storage_bucket": "chatapp-7f7f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316357270015:android:6137d9e840bd4712",
+        "android_client_info": {
+          "package_name": "com.josephmbuku.farmerschatforum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316357270015-ut5chtunb6ivnpq5355ci186tn3q2rsa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.josephmbuku.farmerschatforum",
+            "certificate_hash": "ce7a9fb6cee3e567899ad447ff0e7763f30173a7"
+          }
+        },
+        {
+          "client_id": "316357270015-pcov2fg7ik1u23veq1q8rabk44vdj2g8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "316357270015-pcov2fg7ik1u23veq1q8rabk44vdj2g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB77wIvUqBCUcNF0ZwF9lzIVu89b_c7Thk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316357270015-pcov2fg7ik1u23veq1q8rabk44vdj2g8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
